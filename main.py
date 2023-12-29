@@ -49,7 +49,7 @@ def menu(title, information, options, answer, sys1, sys2):
 
   information = '''
   [!] ©2023 by Phoenix
-  [!] Github: https://www.github.com
+  [!] Github: https://github.com/3xpl017/InfoGadget
   [!] Presiona enter despues de ver el resultado de tu comando para volver al menú.
   '''
 
