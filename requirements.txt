@@ -1,6 +1,6 @@
-pip install os
-pip install sys
-pip install platform
-pip install datetime
-pip install socket
-pip install colorama
+pip3 install os
+pip3 install sys
+pip3 install platform
+pip3 install datetime
+pip3 install socket
+pip3 install colorama
