@@ -122,7 +122,7 @@ def menu(title, information, options, answer, sys1, sys2):
 
   else:
     print(Fore.BLUE + Back.RESET)
-    print('[!] Error: Command not found :('\n)
+    print('[!] Error: Command not found :(\n')
     answer = input(Fore.WHITE + Back.MAGENTA + 'InfoGadget:~$ ')
     menu(title, information, options, answer, sys1, sys2) 
 
