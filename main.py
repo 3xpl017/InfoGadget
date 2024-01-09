@@ -32,7 +32,7 @@ def menu(title, information, options, answer, sys1, sys2):
   print(Fore.MAGENTA + Back.RESET)
 
   # hacemos el título
-  os.system('cls')
+  os.system('clear')
 
   title = '''
   ╔═══                                                                                                            ═══╗ 
@@ -122,7 +122,7 @@ def menu(title, information, options, answer, sys1, sys2):
 
   else:
     print(Fore.BLUE + Back.RESET)
-    print(Fore.WHITE + Back.MAGENTA + '[!] Error: Command not found :(')
+    print('[!] Error: Command not found :('\n)
     answer = input(Fore.WHITE + Back.MAGENTA + 'InfoGadget:~$ ')
     menu(title, information, options, answer, sys1, sys2) 
 
