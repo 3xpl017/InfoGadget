@@ -1,5 +1,5 @@
 # InfoGadget
-`[ ! ]` Este es un proyecto destinado a `encontrar información` sobre tu sistema operativo con `python.`
+`[!]` Este es un proyecto destinado a `encontrar información` sobre tu sistema operativo con `python.`
 
 `[ ! ]` Ha sido probado en `Parrot OS.`
 
